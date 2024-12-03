@@ -1,0 +1,14 @@
+C:\Users\atlan\source\repos\Poklad1\bin\Release\net8.0\Poklad1.exe
+C:\Users\atlan\source\repos\Poklad1\bin\Release\net8.0\Poklad1.deps.json
+C:\Users\atlan\source\repos\Poklad1\bin\Release\net8.0\Poklad1.runtimeconfig.json
+C:\Users\atlan\source\repos\Poklad1\bin\Release\net8.0\Poklad1.dll
+C:\Users\atlan\source\repos\Poklad1\bin\Release\net8.0\Poklad1.pdb
+C:\Users\atlan\source\repos\Poklad1\obj\Release\net8.0\Poklad1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atlan\source\repos\Poklad1\obj\Release\net8.0\Poklad1.AssemblyInfoInputs.cache
+C:\Users\atlan\source\repos\Poklad1\obj\Release\net8.0\Poklad1.AssemblyInfo.cs
+C:\Users\atlan\source\repos\Poklad1\obj\Release\net8.0\Poklad1.csproj.CoreCompileInputs.cache
+C:\Users\atlan\source\repos\Poklad1\obj\Release\net8.0\Poklad1.dll
+C:\Users\atlan\source\repos\Poklad1\obj\Release\net8.0\refint\Poklad1.dll
+C:\Users\atlan\source\repos\Poklad1\obj\Release\net8.0\Poklad1.pdb
+C:\Users\atlan\source\repos\Poklad1\obj\Release\net8.0\Poklad1.genruntimeconfig.cache
+C:\Users\atlan\source\repos\Poklad1\obj\Release\net8.0\ref\Poklad1.dll
